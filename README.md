@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @wallbloggerboy
+- 👋 Hi, I’m @wallbloggerbeing
 - 👀 I’m interested in programming in generell, but I like coding problems a lot
 - 🌱 I’m currently learning C and Assembly x86
-- 📫 Twitter: @wallbloggerboy; Discord wallbloggerboy#6942
+- 📫 Twitter: @wallbloggerenby; Discord wallbloggerbeing#2280
 
 <!---
 wallbloggerboy/wallbloggerboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

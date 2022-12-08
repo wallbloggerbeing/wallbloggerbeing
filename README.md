@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wallbloggerbeing
 - 👀 I’m interested in programming in generell, but I like coding problems a lot
-- 🌱 I’m currently learning C and Assembly x86
+- 🌱 I’m currently expanding my knowledge on C/C++
 - 📫 Twitter: @wallbloggerenby; Discord wallbloggerbeing#2280
 
 <!---

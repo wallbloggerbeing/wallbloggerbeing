@@ -1,1 +1,7 @@
-Welcome to my GitHub profile! My name is Leon, and I am a passionate programmer with a focus on Python and C. I love using these languages to create and develop innovative software solutions, and I am constantly seeking out new challenges and opportunities to learn and grow as a developer. In my free time, you can find me tinkering with code, attending meetups, or exploring the latest trends in the tech world. I am excited to be a part of the vibrant and dynamic community of developers on GitHub, and I look forward to sharing my knowledge and skills with others. Thank you for stopping by, and I hope you enjoy browsing my projects!
+Welcome to my GitHub profile! 💻
+
+My name is Leon, and I am a passionate programmer with a focus on Python and C. I enjoy using logic to create innovative software solutions and am constantly seeking new challenges and opportunities to learn and grow.
+
+In my free time, you can find me tinkering with code, attending meetups, or exploring the latest tech trends. I am excited to be part of the GitHub community and look forward to sharing my knowledge and skills with others.
+
+Thank you for visiting, and I hope you enjoy browsing my projects! 📂👀
